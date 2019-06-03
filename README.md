@@ -2,5 +2,5 @@
 
 Реализация паттерна "Абстрактная фабрика" на python.
 
-UML:
+UML:  
 ![uml](ClassDiagram.png)
